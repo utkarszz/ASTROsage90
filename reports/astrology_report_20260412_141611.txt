@@ -1,0 +1,75 @@
+════════════════════════════════════════════════════════
+  Astrology Predictor — Birth Chart Report
+════════════════════════════════════════════════════════
+  Generated: 12 April 2026, 14:16
+  Location:  Hajipur
+  Birth:     17 May 2007, 15:12
+  Lat/Lon:   25.6906, 85.2090
+
+────────────────────────────────────────────────────────
+  Core Signs
+────────────────────────────────────────────────────────
+    Sun Sign:   Taurus
+    Moon Sign:  Gemini
+    Ascendant:  Sagittarius
+
+────────────────────────────────────────────────────────
+  Planetary Positions
+────────────────────────────────────────────────────────
+    Sun          → Taurus         (26.35° Taurus)
+    Moon         → Gemini         (07.86° Gemini)
+    Mercury      → Gemini         (12.35° Gemini)
+    Venus        → Cancer         (10.21° Cancer)
+    Mars         → Aries          (01.55° Aries)
+    Jupiter      → Sagittarius    (17.26° Sagittarius)
+    Saturn       → Leo            (18.83° Leo)
+
+────────────────────────────────────────────────────────
+  Houses
+────────────────────────────────────────────────────────
+    House 1    → Sagittarius    (26.46° Sagittarius)
+    House 2    → Capricorn      (29.16° Capricorn)
+    House 3    → Pisces         (04.71° Pisces)
+    House 4    → Aries          (08.87° Aries)
+    House 5    → Taurus         (08.18° Taurus)
+    House 6    → Gemini         (03.17° Gemini)
+    House 7    → Gemini         (26.46° Gemini)
+    House 8    → Cancer         (29.16° Cancer)
+    House 9    → Virgo          (04.71° Virgo)
+    House 10   → Libra          (08.87° Libra)
+    House 11   → Scorpio        (08.18° Scorpio)
+    House 12   → Sagittarius    (03.17° Sagittarius)
+
+────────────────────────────────────────────────────────
+  Interpretation
+────────────────────────────────────────────────────────
+
+    Sun in Taurus
+    Reliable, patient, and devoted. You value stability and enjoy the finer things in life.
+    Strengths: Reliable, patient, practical, devoted, responsible, stable
+    Weaknesses: Stubborn, possessive, uncompromising
+
+    Moon in Gemini
+    Your emotions are intellectually driven. You process feelings through communication and need mental stimulation to feel alive.
+
+    Ascendant in Sagittarius
+    You appear adventurous, optimistic, and philosophical. Others see you as a free-spirited explorer.
+
+    Mercury in Gemini
+    Brilliant and versatile mind. You excel at multitasking and love learning new things.
+
+    Venus in Cancer
+    Nurturing and protective in love. You create emotional security in relationships.
+
+    Mars in Aries
+    Fierce and unstoppable energy. You are a warrior spirit who thrives on competition.
+
+    Jupiter in Sagittarius
+    Natural-born philosopher and explorer. Your optimism and vision attract boundless opportunities.
+
+    Saturn in Leo
+    Lessons in humble leadership. You are learning that true authority comes from authenticity.
+
+════════════════════════════════════════════════════════
+  End of Report — Astrology Predictor
+════════════════════════════════════════════════════════

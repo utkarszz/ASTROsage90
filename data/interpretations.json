@@ -1,0 +1,188 @@
+{
+  "sun_signs": {
+    "Aries": {
+      "traits": "Bold, ambitious, and energetic. You are a natural-born leader who thrives on competition and challenge.",
+      "strengths": "Courageous, determined, confident, enthusiastic, optimistic",
+      "weaknesses": "Impatient, moody, short-tempered, impulsive, aggressive",
+      "element": "Fire",
+      "ruling_planet": "Mars"
+    },
+    "Taurus": {
+      "traits": "Reliable, patient, and devoted. You value stability and enjoy the finer things in life.",
+      "strengths": "Reliable, patient, practical, devoted, responsible, stable",
+      "weaknesses": "Stubborn, possessive, uncompromising",
+      "element": "Earth",
+      "ruling_planet": "Venus"
+    },
+    "Gemini": {
+      "traits": "Versatile, expressive, and curious. You are a social butterfly with a brilliant mind that craves variety.",
+      "strengths": "Gentle, affectionate, curious, adaptable, ability to learn quickly",
+      "weaknesses": "Nervous, inconsistent, indecisive",
+      "element": "Air",
+      "ruling_planet": "Mercury"
+    },
+    "Cancer": {
+      "traits": "Intuitive, sentimental, and compassionate. You are deeply connected to your home and family.",
+      "strengths": "Tenacious, highly imaginative, loyal, emotional, sympathetic, persuasive",
+      "weaknesses": "Moody, pessimistic, suspicious, manipulative, insecure",
+      "element": "Water",
+      "ruling_planet": "Moon"
+    },
+    "Leo": {
+      "traits": "Dramatic, outgoing, and self-assured. You are a born performer who loves to be in the spotlight.",
+      "strengths": "Creative, passionate, generous, warm-hearted, cheerful, humorous",
+      "weaknesses": "Arrogant, stubborn, self-centered, lazy, inflexible",
+      "element": "Fire",
+      "ruling_planet": "Sun"
+    },
+    "Virgo": {
+      "traits": "Analytical, kind, and hardworking. You pay close attention to detail and strive for perfection.",
+      "strengths": "Loyal, analytical, kind, hardworking, practical",
+      "weaknesses": "Shyness, worry, overly critical of self and others, all work and no play",
+      "element": "Earth",
+      "ruling_planet": "Mercury"
+    },
+    "Libra": {
+      "traits": "Cooperative, diplomatic, and gracious. You seek balance and harmony in all aspects of life.",
+      "strengths": "Cooperative, diplomatic, gracious, fair-minded, social",
+      "weaknesses": "Indecisive, avoids confrontation, will carry a grudge, self-pity",
+      "element": "Air",
+      "ruling_planet": "Venus"
+    },
+    "Scorpio": {
+      "traits": "Resourceful, powerful, and brave. You are deeply emotional and possess an intense inner strength.",
+      "strengths": "Resourceful, brave, passionate, stubborn, a true friend",
+      "weaknesses": "Distrusting, jealous, secretive, violent",
+      "element": "Water",
+      "ruling_planet": "Pluto"
+    },
+    "Sagittarius": {
+      "traits": "Generous, idealistic, and adventurous. You are a free spirit with an insatiable thirst for knowledge.",
+      "strengths": "Generous, idealistic, great sense of humor",
+      "weaknesses": "Promises more than can deliver, very impatient, will say anything",
+      "element": "Fire",
+      "ruling_planet": "Jupiter"
+    },
+    "Capricorn": {
+      "traits": "Responsible, disciplined, and masterful. You are a strategic thinker who plans for long-term success.",
+      "strengths": "Responsible, disciplined, self-control, good managers",
+      "weaknesses": "Know-it-all, unforgiving, condescending, expecting the worst",
+      "element": "Earth",
+      "ruling_planet": "Saturn"
+    },
+    "Aquarius": {
+      "traits": "Progressive, original, and independent. You are a visionary humanitarian who marches to your own beat.",
+      "strengths": "Progressive, original, independent, humanitarian",
+      "weaknesses": "Runs from emotional expression, temperamental, uncompromising, aloof",
+      "element": "Air",
+      "ruling_planet": "Uranus"
+    },
+    "Pisces": {
+      "traits": "Compassionate, artistic, and intuitive. You are deeply empathetic and have a rich inner world.",
+      "strengths": "Compassionate, artistic, intuitive, gentle, wise, musical",
+      "weaknesses": "Fearful, overly trusting, sad, desire to escape reality",
+      "element": "Water",
+      "ruling_planet": "Neptune"
+    }
+  },
+  "moon_signs": {
+    "Aries": "Your emotional nature is fiery and impulsive. You react quickly and passionately, often wearing your heart on your sleeve.",
+    "Taurus": "Emotionally grounded and steady. You seek security and comfort, and your feelings run deep beneath a calm exterior.",
+    "Gemini": "Your emotions are intellectually driven. You process feelings through communication and need mental stimulation to feel alive.",
+    "Cancer": "Deeply nurturing and protective. Your emotions are powerful and intuitive — you feel everything on a profound level.",
+    "Leo": "Emotionally warm and generous. You crave admiration and love, expressing your feelings with dramatic flair.",
+    "Virgo": "Your emotional world is orderly and analytical. You express care through acts of service and practical support.",
+    "Libra": "Emotionally harmonious and relationship-oriented. You need partnership and fairness to feel emotionally balanced.",
+    "Scorpio": "Intense and transformative emotional nature. You feel deeply and are fiercely loyal, but guard your vulnerabilities closely.",
+    "Sagittarius": "Emotionally optimistic and freedom-loving. You process feelings through adventure, philosophy, and expansive experiences.",
+    "Capricorn": "Emotionally reserved and disciplined. You take your feelings seriously and express love through commitment and responsibility.",
+    "Aquarius": "Emotionally detached yet humanitarian. You approach feelings intellectually and value independence in emotional bonds.",
+    "Pisces": "Boundlessly empathetic and spiritually attuned. You absorb the emotions of others and possess a deeply compassionate soul."
+  },
+  "ascendant_signs": {
+    "Aries": "You project confidence, energy, and directness. First impressions show you as bold and assertive.",
+    "Taurus": "You appear calm, grounded, and dependable. Others see you as steady and aesthetically aware.",
+    "Gemini": "You come across as witty, talkative, and curious. Your social energy is immediately noticeable.",
+    "Cancer": "You appear nurturing, approachable, and sensitive. Others feel safe and comfortable around you.",
+    "Leo": "You project charisma, warmth, and confidence. Your presence naturally commands attention.",
+    "Virgo": "You appear meticulous, modest, and helpful. Others see you as organized and detail-oriented.",
+    "Libra": "You come across as charming, graceful, and diplomatic. Others are drawn to your social elegance.",
+    "Scorpio": "You project intensity, mystery, and magnetism. Your presence is powerful and deeply felt.",
+    "Sagittarius": "You appear adventurous, optimistic, and philosophical. Others see you as a free-spirited explorer.",
+    "Capricorn": "You project maturity, ambition, and seriousness. Others see you as reliable and authoritative.",
+    "Aquarius": "You come across as unique, progressive, and independent. Your individuality is immediately apparent.",
+    "Pisces": "You appear dreamy, compassionate, and artistic. Others sense your deep emotional and spiritual awareness."
+  },
+  "planets_in_signs": {
+    "Mercury": {
+      "Aries": "Quick thinker with a direct communication style. You speak your mind without hesitation.",
+      "Taurus": "Thoughtful and deliberate communicator. You think things through before speaking.",
+      "Gemini": "Brilliant and versatile mind. You excel at multitasking and love learning new things.",
+      "Cancer": "Intuitive communicator. You think with your heart and express yourself emotionally.",
+      "Leo": "Dramatic and creative thinker. You communicate with passion and flair.",
+      "Virgo": "Precise and analytical mind. You excel at detail-oriented thinking and problem-solving.",
+      "Libra": "Diplomatic communicator. You consider all sides before forming an opinion.",
+      "Scorpio": "Deep and probing thinker. You see beneath the surface and communicate with intensity.",
+      "Sagittarius": "Big-picture thinker. You communicate with enthusiasm and philosophical depth.",
+      "Capricorn": "Strategic and practical communicator. You think in terms of results and efficiency.",
+      "Aquarius": "Innovative and unconventional thinker. Your ideas are ahead of their time.",
+      "Pisces": "Imaginative and intuitive mind. You communicate through creative and artistic expression."
+    },
+    "Venus": {
+      "Aries": "Passionate and impulsive in love. You pursue romance with enthusiasm and directness.",
+      "Taurus": "Sensual and devoted lover. You value loyalty, comfort, and physical affection.",
+      "Gemini": "Playful and intellectually stimulating in love. You need mental connection with partners.",
+      "Cancer": "Nurturing and protective in love. You create emotional security in relationships.",
+      "Leo": "Romantic and generous lover. You express love dramatically and crave admiration.",
+      "Virgo": "Devoted and service-oriented in love. You show affection through practical care.",
+      "Libra": "Harmonious and partnership-oriented. You are a true romantic who values beauty and balance.",
+      "Scorpio": "Intense and transformative in love. Your emotional bonds are deep and all-consuming.",
+      "Sagittarius": "Adventurous and freedom-loving in love. You seek a partner who shares your wanderlust.",
+      "Capricorn": "Reserved but deeply committed. You approach love with seriousness and long-term vision.",
+      "Aquarius": "Unconventional and independent in love. You value friendship and intellectual connection.",
+      "Pisces": "Deeply romantic and compassionate. You love unconditionally and see the best in your partner."
+    },
+    "Mars": {
+      "Aries": "Fierce and unstoppable energy. You are a warrior spirit who thrives on competition.",
+      "Taurus": "Steady and persistent drive. You work tirelessly toward your goals with unshakable determination.",
+      "Gemini": "Mentally agile and versatile energy. You channel your drive through communication and ideas.",
+      "Cancer": "Protective and emotionally driven. You fight fiercely for your family and those you love.",
+      "Leo": "Bold and dramatic energy. You pursue your goals with creative passion and confidence.",
+      "Virgo": "Methodical and efficient drive. You channel energy into perfecting systems and processes.",
+      "Libra": "Diplomatic action. You pursue goals through negotiation, partnerships, and strategic alliances.",
+      "Scorpio": "Intensely focused and powerful energy. Your determination is relentless and transformative.",
+      "Sagittarius": "Adventurous and expansive drive. You channel energy into exploration and higher learning.",
+      "Capricorn": "Disciplined and ambitious energy. You pursue goals with strategic planning and endurance.",
+      "Aquarius": "Rebellious and innovative energy. You fight for causes and push boundaries.",
+      "Pisces": "Spiritually motivated and compassionate drive. You channel energy into creative and healing pursuits."
+    },
+    "Jupiter": {
+      "Aries": "Growth through bold action and self-initiative. Fortune favors your courageous endeavors.",
+      "Taurus": "Abundance through patience and material mastery. You attract wealth through practicality.",
+      "Gemini": "Expansion through knowledge and communication. Your curiosity opens doors of opportunity.",
+      "Cancer": "Growth through emotional intelligence and nurturing. Your empathy brings abundance.",
+      "Leo": "Expansion through creativity and self-expression. Your generosity multiplies your fortune.",
+      "Virgo": "Growth through service and analytical skills. Attention to detail brings professional rewards.",
+      "Libra": "Abundance through relationships and diplomacy. Partnerships are your gateway to growth.",
+      "Scorpio": "Transformation brings expansion. Your ability to regenerate leads to profound growth.",
+      "Sagittarius": "Natural-born philosopher and explorer. Your optimism and vision attract boundless opportunities.",
+      "Capricorn": "Growth through discipline and ambition. Your strategic approach to life yields lasting success.",
+      "Aquarius": "Expansion through innovation and humanitarianism. Your progressive vision opens new frontiers.",
+      "Pisces": "Spiritual growth and boundless compassion. Your intuition guides you to meaningful abundance."
+    },
+    "Saturn": {
+      "Aries": "Lessons in patience and self-discipline. You are learning to temper impulse with wisdom.",
+      "Taurus": "Lessons in material responsibility. You are building lasting foundations through hard work.",
+      "Gemini": "Lessons in focused communication. You are learning to channel your ideas with discipline.",
+      "Cancer": "Lessons in emotional maturity. You are building inner security through self-reliance.",
+      "Leo": "Lessons in humble leadership. You are learning that true authority comes from authenticity.",
+      "Virgo": "Lessons in practical perfection. You are refining your skills through rigorous self-improvement.",
+      "Libra": "Lessons in balanced relationships. You are learning the discipline needed for true partnership.",
+      "Scorpio": "Lessons in emotional control. You are mastering the art of power through transformation.",
+      "Sagittarius": "Lessons in structured growth. You are learning to channel your vision through practical steps.",
+      "Capricorn": "Master of discipline and ambition. You possess natural authority and enduring determination.",
+      "Aquarius": "Lessons in structured innovation. You are learning to ground your visionary ideas in reality.",
+      "Pisces": "Lessons in spiritual discipline. You are learning to channel your compassion with healthy boundaries."
+    }
+  }
+}
